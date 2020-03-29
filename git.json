@@ -1,0 +1,21 @@
+{
+  "short_name": "Boba Watch",
+  "name": "Boba Watch",
+  "icons": [
+    {
+      "src": "logo-no-bg.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "logo-no-bg.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FFAFA4",
+  "background_color": "#FFAFA4"
+}
