@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.43b092a8.chunk.css",
-    "main.js": "/static/js/main.ec2a689a.chunk.js",
-    "main.js.map": "/static/js/main.ec2a689a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d4bb6885.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d4bb6885.js.map",
-    "static/css/2.353dc691.chunk.css": "/static/css/2.353dc691.chunk.css",
-    "static/js/2.96667b91.chunk.js": "/static/js/2.96667b91.chunk.js",
-    "static/js/2.96667b91.chunk.js.map": "/static/js/2.96667b91.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.353dc691.chunk.css.map": "/static/css/2.353dc691.chunk.css.map",
-    "static/css/main.43b092a8.chunk.css.map": "/static/css/main.43b092a8.chunk.css.map",
-    "static/js/2.96667b91.chunk.js.LICENSE.txt": "/static/js/2.96667b91.chunk.js.LICENSE.txt",
-    "static/media/globals.scss": "/static/media/logo-shadow.6939cf87.svg",
-    "static/media/star_empty.77359f4e.svg": "/static/media/star_empty.77359f4e.svg",
-    "static/media/star_filled.9666ab88.svg": "/static/media/star_filled.9666ab88.svg"
+    "main.css": "/beta.boba.watch/static/css/main.afebcf08.chunk.css",
+    "main.js": "/beta.boba.watch/static/js/main.1a597c43.chunk.js",
+    "main.js.map": "/beta.boba.watch/static/js/main.1a597c43.chunk.js.map",
+    "runtime-main.js": "/beta.boba.watch/static/js/runtime-main.6bab2e91.js",
+    "runtime-main.js.map": "/beta.boba.watch/static/js/runtime-main.6bab2e91.js.map",
+    "static/css/2.353dc691.chunk.css": "/beta.boba.watch/static/css/2.353dc691.chunk.css",
+    "static/js/2.d6222b71.chunk.js": "/beta.boba.watch/static/js/2.d6222b71.chunk.js",
+    "static/js/2.d6222b71.chunk.js.map": "/beta.boba.watch/static/js/2.d6222b71.chunk.js.map",
+    "index.html": "/beta.boba.watch/index.html",
+    "static/css/2.353dc691.chunk.css.map": "/beta.boba.watch/static/css/2.353dc691.chunk.css.map",
+    "static/css/main.afebcf08.chunk.css.map": "/beta.boba.watch/static/css/main.afebcf08.chunk.css.map",
+    "static/js/2.d6222b71.chunk.js.LICENSE.txt": "/beta.boba.watch/static/js/2.d6222b71.chunk.js.LICENSE.txt",
+    "static/media/globals.scss": "/beta.boba.watch/static/media/logo-shadow.6939cf87.svg",
+    "static/media/star_empty.77359f4e.svg": "/beta.boba.watch/static/media/star_empty.77359f4e.svg",
+    "static/media/star_filled.9666ab88.svg": "/beta.boba.watch/static/media/star_filled.9666ab88.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4bb6885.js",
+    "static/js/runtime-main.6bab2e91.js",
     "static/css/2.353dc691.chunk.css",
-    "static/js/2.96667b91.chunk.js",
-    "static/css/main.43b092a8.chunk.css",
-    "static/js/main.ec2a689a.chunk.js"
+    "static/js/2.d6222b71.chunk.js",
+    "static/css/main.afebcf08.chunk.css",
+    "static/js/main.1a597c43.chunk.js"
   ]
 }
