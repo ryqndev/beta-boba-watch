@@ -1,0 +1,2 @@
+(this["webpackJsonpboba-watch"]=this["webpackJsonpboba-watch"]||[]).push([[17],{498:function(e,t,n){"use strict";n.r(t);var c=n(0),b=n(71),a=n(2),u=Object(c.lazy)((function(){return n.e(11).then(n.bind(null,495))})),o=Object(c.lazy)((function(){return Promise.all([n.e(0),n.e(1),n.e(7)]).then(n.bind(null,494))})),r=function(e){var t=e.theme;return"phone"===Object(b.a)()?Object(a.jsx)(u,{}):Object(a.jsx)(o,{theme:t})},h=Object(c.memo)(r);t.default=h}}]);
+//# sourceMappingURL=17.6c057b9e.chunk.js.map
